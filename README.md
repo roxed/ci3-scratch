@@ -14,5 +14,8 @@ https://github.com/scoumbourdis/codeigniter-simplicity/archive/master.zip
 ### mPDF
 composer require mpdf/mpdf
 
+### PHP Office
+composer require phpoffice/phpspreadsheet
+
 ## REST Api with JWT
 https://newcodingera.com/jwt-in-codeigniter/
