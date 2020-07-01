@@ -8,3 +8,11 @@ https://api.github.com/repos/bcit-ci/CodeIgniter/zipball/3.1.11
 
 ### Codeigniter Template Library
 https://github.com/scoumbourdis/codeigniter-simplicity/archive/master.zip
+
+### jQuery Datatables
+
+### mPDF
+composer require mpdf/mpdf
+
+## REST Api with JWT
+https://newcodingera.com/jwt-in-codeigniter/
